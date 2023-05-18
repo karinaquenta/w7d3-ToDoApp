@@ -1,0 +1,28 @@
+/* .completed {
+    text-decoration: line-through;
+  } */
+
+  body {
+    background-color: rgba(36, 87, 38, 0.563);
+  }
+  
+  .container {
+    background-color: #d2cece;
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .list-group-item {
+    background-color: #d8c890;
+    border-color: #EBE1B1;
+    color: #464646;
+  }
+  
+  .list-group-item.completed {
+    text-decoration: line-through;
+  }
+  
+  .btn-primary {
+    background-color: #556B2F;
+    border-color: #556B2F;
+  }
